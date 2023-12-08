@@ -1,0 +1,2 @@
+-- pyinstaller commands [onefile]
+pyinstaller --name "Software" "E:\Javascript\Website\Scraper\app.py" --onefile
